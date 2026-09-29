@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="white">#FFFFFFFF</color>
+    <color name="blue_button">#3A7FD5</color>
+    <color name="blue_button_ripple">#2A5FA5</color>
+    <color name="gray_button">#E8EEF4</color>
+    <color name="gray_button_ripple">#C4C4C4</color>
+    <color name="red_button">#D64545</color>
+    <color name="red_button_ripple">#A83030</color>
+    <color name="progressbar_track">#DCEEFB</color>
+    <color name="progressbar_goal">#2196F3</color>
+    <color name="progressbar_mood">#FFA94D</color>
+    <color name="progressbar_satiety">#6FCF97</color>
+    <color name="colorPrimary">#3A7FD5</color>
+    <color name="colorPrimaryDark">#1A5AAF</color>
+    <color name="colorAccent">#FFC840</color>
+    <color name="input_border_default">#C8DCF0</color>
+    <color name="input_border_focused">#3A7FD5</color>
+    <color name="nav_gray">#8FA4B8</color>
+    <color name="dark_blue">#1A3A6B</color>
+
+    <color name="circle_blue_border">#3A7FD5</color>
+    <color name="circle_pink_border">#F48FB1</color>
+    <color name="circle_blue_fill">#E3F0FF</color>
+    <color name="circle_pink_fill">#FFE4EF</color>
+</resources>
