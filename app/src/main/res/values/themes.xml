@@ -3,8 +3,8 @@
     <style name="Theme.Finni" parent="Theme.MaterialComponents.Light.NoActionBar">
         <item name="android:windowFullscreen">true</item>
 
-        <item name="colorPrimary">@color/colorPrimary</item>
-        <item name="colorPrimaryDark">@color/colorPrimaryDark</item>
-        <item name="colorAccent">@color/colorAccent</item>
+        <item name="colorPrimary">#3A7FD5</item>
+        <item name="colorPrimaryDark">#1A5AAF</item>
+        <item name="colorAccent">#3A7FD5</item>
     </style>
 </resources>

@@ -52,20 +52,20 @@
 
         <TextView
             android:id="@+id/tv_coins"
-            android:layout_width="wrap_content"
+            android:layout_width="0dp"
             android:layout_height="wrap_content"
+            android:layout_weight="1"
+            android:autoSizeMaxTextSize="20sp"
+            android:autoSizeMinTextSize="10sp"
+            android:autoSizeStepGranularity="1sp"
+            android:autoSizeTextType="uniform"
+            android:ellipsize="end"
             android:fontFamily="@font/nunitobold"
-            android:text="0"
+            android:gravity="center"
+            android:maxLines="1"
+            android:text="0 монет"
             android:textColor="@color/dark_blue"
             android:textSize="20sp" />
-
-        <TextView
-            android:layout_width="wrap_content"
-            android:layout_height="wrap_content"
-            android:layout_marginStart="4dp"
-            android:text="🪙"
-            android:textSize="18sp" />
-
     </LinearLayout>
 
     <ScrollView

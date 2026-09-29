@@ -11,13 +11,12 @@
     <color name="progressbar_goal">#2196F3</color>
     <color name="progressbar_mood">#FFA94D</color>
     <color name="progressbar_satiety">#6FCF97</color>
-    <color name="colorPrimary">#3A7FD5</color>
-    <color name="colorPrimaryDark">#1A5AAF</color>
-    <color name="colorAccent">#FFC840</color>
     <color name="input_border_default">#C8DCF0</color>
     <color name="input_border_focused">#3A7FD5</color>
     <color name="nav_gray">#8FA4B8</color>
     <color name="dark_blue">#1A3A6B</color>
+    <color name="switch_on">#3A7FD5</color>
+    <color name="switch_off">#8FA4B8</color>
 
     <color name="circle_blue_border">#3A7FD5</color>
     <color name="circle_pink_border">#F48FB1</color>

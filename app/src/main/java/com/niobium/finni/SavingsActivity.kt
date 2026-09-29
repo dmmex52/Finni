@@ -127,7 +127,7 @@ class SavingsActivity : AppCompatActivity() {
     }
 
     private fun render() {
-        tvCoins.text = "${GameManager.getBalance(this)}"
+        tvCoins.text = "${GameManager.getBalance(this)} монет"
 
         val selected = GameManager.getSelectedGoal(this)
 
@@ -145,10 +145,10 @@ class SavingsActivity : AppCompatActivity() {
 
             button.text = when {
                 isDone ->
-                    "✓ ${goal.title}  ·  $saved/${goal.cost}"
+                    "Выполнено: ${goal.title}  ·  $saved/${goal.cost}"
 
                 isSelected ->
-                    "● ${goal.title}  ·  $saved/${goal.cost}"
+                    "${goal.title}  ·  $saved/${goal.cost}"
 
                 else ->
                     "${goal.title}  ·  $saved/${goal.cost}"
